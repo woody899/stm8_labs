@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=past_exam.stp
+Dependencies=
+[Options]
+ActiveProject=past_exam
+ActiveConfig=Debug
+AddSortedElements=1
